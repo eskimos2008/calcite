@@ -1,0 +1,4 @@
+files:
+  - source: '*.*'
+    translation: '%original_path%/%original_file_name%'
+    scheme: identifier
